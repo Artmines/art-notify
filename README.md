@@ -40,7 +40,7 @@ Success \
 ![Success](https://cdn.discordapp.com/attachments/1100041190021271672/1101856347420627044/image.png)  \
 
 Warn \
-![Warn](![image](https://user-images.githubusercontent.com/96462463/235303409-eb22be14-9c8e-441a-a78e-049119a105d0.png))  \
+![Warn](https://cdn.discordapp.com/attachments/1100041190021271672/1101856827832016957/image.png)  \
 
 
 ## Credits
