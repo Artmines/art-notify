@@ -31,16 +31,16 @@ TriggerClientEvent('art:notify', source, {text = 'This is a test notification', 
 
 ## Screenshots
 Info \
-![Info](https://cdn.discordapp.com/attachments/1100041190021271672/1101856667882238063/image.png) \
+![Info](https://cdn.discordapp.com/attachments/1100041190021271672/1101856667882238063/image.png) 
 
 Error \
-![Error](https://cdn.discordapp.com/attachments/1100041190021271672/1101849359798259762/image.png) \
+![Error](https://cdn.discordapp.com/attachments/1100041190021271672/1101849359798259762/image.png) 
 
 Success \
-![Success](https://cdn.discordapp.com/attachments/1100041190021271672/1101856347420627044/image.png)  \
+![Success](https://cdn.discordapp.com/attachments/1100041190021271672/1101856347420627044/image.png)  
 
 Warn \
-![Warn](https://cdn.discordapp.com/attachments/1100041190021271672/1101856827832016957/image.png)  \
+![Warn](https://cdn.discordapp.com/attachments/1100041190021271672/1101856827832016957/image.png)  
 
 
 ## Credits
