@@ -31,12 +31,13 @@ RegisterNUICallback('getNotifyConfig', function(data, cb)
     cb(json.encode(Config.Notify))
 end)
 
---[[
 RegisterCommand('main', function()
-exports['art-notify']:SendAlert('art#0048', 'success')
-exports['art-notify']:SendAlert('nkòwashere#0710', 'error')
-exports['art-notify']:SendAlert('ra1der#0710', 'warn')
-exports['art-notify']:SendAlert('Wild Dev. ve nkò\'s boutique İş Birliği!', 'info')
-exports['art-notify']:SendAlert('Dikkat, dikkat! Piyasaya yön veriliyor..', 'warn')
+exports['art-notify']:SendAlert('Artminese#2711', 'error')
+exports['art-notify']:SendAlert('Artmines#2711', 'warn')
+exports['art-notify']:SendAlert('Wild Dev.', 'info')
+exports['art-notify']:SendAlert('Attention! Leading the market.', 'warn')
 end)
-]]
+
+RegisterCommand('success', function()
+    exports['art-notify']:SendAlert('Artmines#2711', 'success')
+end)
