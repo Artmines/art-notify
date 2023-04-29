@@ -1,0 +1,104 @@
+.success {
+    scale: 0.8;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    font-weight: 600;
+
+    box-sizing: content-box;
+    background-color: #132c1481;
+    background-size: 100px;
+
+    background-image: url('https://cdn.discordapp.com/attachments/708302355803799602/1004563212152352829/succes2.png'); 
+    border-radius: 2px;
+/*     -webkit-border-radius: 50px;
+    -moz-border-radius: 50px; */
+
+    background-position-y: 7px;
+    background-position-x: 7px;
+    background-repeat: no-repeat;
+    background-size: 35px;
+
+
+    position: relative;
+right: 200px;
+}
+
+
+.info {
+    scale: 0.8;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    font-weight: 600;
+
+    box-sizing: content-box;
+    background-color: #00000085;
+    background-size: 100px;
+
+    background-image: url('https://cdn.discordapp.com/attachments/708302355803799602/1004563211686776993/main2.png'); 
+    border-radius: 2px;
+/*     -webkit-border-radius: 50px;
+    -moz-border-radius: 50px; */
+
+    background-position-y: 7px;
+    background-position-x: 7px;
+    background-repeat: no-repeat;
+    background-size: 35px;
+
+    position: relative;
+right: 200px;
+
+}
+
+.error {
+    scale: 0.8;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    font-weight: 600;
+    position: relative;
+right: 200px;
+
+    box-sizing: content-box;
+    background-color: #470e0e8e;
+    background-size: 100px;
+
+    background-image: url('https://cdn.discordapp.com/attachments/708302355803799602/1004563211334463548/error2.png'); 
+    border-radius: 2px;
+/*     -webkit-border-radius: 50px;
+    -moz-border-radius: 50px; */
+
+    background-position-y: 7px;
+    background-position-x: 7px;
+    background-repeat: no-repeat;
+    background-size: 35px;
+}
+
+.warn {
+    scale: 0.8;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    font-weight: 600;
+    position: relative;
+right: 200px;
+
+    box-sizing: content-box;
+    background-color: rgba(179, 135, 14, 0.568);
+    background-size: 100px;
+
+    background-image: url('https://cdn.discordapp.com/attachments/1070377961158623262/1075104261362430106/warn.png'); 
+    border-radius: 2px;
+/*     -webkit-border-radius: 50px;
+    -moz-border-radius: 50px; */
+
+    background-position-y: 7px;
+    background-position-x: 7px;
+    background-repeat: no-repeat;
+    background-size: 35px;
+}
